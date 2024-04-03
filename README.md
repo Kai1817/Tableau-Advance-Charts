@@ -1,4 +1,7 @@
-# Several Advance charts in Tableau
+# Several Advance charts in Tableau 
+
+how to learn these charts click on the link below
+https://vizzingdata.com/tag/tableau-advanced-charts/
 
 ![Screenshot 2024-04-03 152605](https://github.com/Kai1817/Tableau-Advance-Charts/assets/130749315/2a945e5d-2e1b-41bc-8aac-0b46a1a88d1d)
 ![Screenshot 2024-04-03 152620](https://github.com/Kai1817/Tableau-Advance-Charts/assets/130749315/3ec60bef-6449-48e2-a4ae-265a14c51f8f)
